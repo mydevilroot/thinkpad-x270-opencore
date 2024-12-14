@@ -46,8 +46,9 @@
 - [x] iMessage, FaceTime, App Store, iTunes Store (with valid smbios)
 - [x] DRM support (iTunes Movies, Apple TV+, Amazon Prime and Netflix, and others)
 - [x] Sleep / Wake (lid sleep and lid wake) (works for me you can try for yourself)
+- [x] Internal camera (including Facetime)
+- [x] Bluetooth
 
 
 # What's not working? ⚠️
-- [x] Internal camera (including Facetime)
-- [x] Bluetooth (I will try to fix that)
+- [x] Airdrop and Handoff (not tested)
